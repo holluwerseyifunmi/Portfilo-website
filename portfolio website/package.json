@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@vercel/speed-insights": "^1.2.0"
+  },
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "portfolio-website-code-with-Holluwerseyifunmi",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+  "start": "node index.js"
+}
+ 
+}
